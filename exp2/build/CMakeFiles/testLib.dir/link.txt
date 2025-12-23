@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/testLib.dir/useLibTest.cpp.o -o testLib  -Wl,-rpath,/home/harekasa/MachineVision/exp2/build libshareLibTest.so 

@@ -1,0 +1,3 @@
+/home/harekasa/MachineVision/build/CMakeFiles/SeeIfOpenCVWorks.dir
+/home/harekasa/MachineVision/build/CMakeFiles/edit_cache.dir
+/home/harekasa/MachineVision/build/CMakeFiles/rebuild_cache.dir
