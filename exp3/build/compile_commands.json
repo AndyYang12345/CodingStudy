@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/harekasa/MachineVision/CodingStudy/exp3/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/cvStudy.dir/cvStudy.cpp.o -c /home/harekasa/MachineVision/CodingStudy/exp3/cvStudy.cpp",
+  "file": "/home/harekasa/MachineVision/CodingStudy/exp3/cvStudy.cpp",
+  "output": "CMakeFiles/cvStudy.dir/cvStudy.cpp.o"
+}
+]

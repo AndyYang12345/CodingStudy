@@ -1,6 +1,7 @@
 #include <iostream>
 #include "shareLibTest.h"
-
-void testSharedLib() {
-    std::cout << "Shared library test function called." << std::endl;
+int main() {
+    std::cout << "Calling shared library function from main." << std::endl;
+    testSharedLib();
+    return 0;
 }
